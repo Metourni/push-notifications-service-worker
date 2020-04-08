@@ -1,0 +1,27 @@
+{
+  "name": "push-notifications-service-worker",
+  "version": "1.0.0",
+  "description": "Push notification using service worker and node.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metourni/push-notifications-service-worker.git"
+  },
+  "keywords": [
+    "Push",
+    "notifications",
+    "notifications",
+    "service",
+    "worker",
+    "node.js"
+  ],
+  "author": "Metourni Noureddine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metourni/push-notifications-service-worker/issues"
+  },
+  "homepage": "https://github.com/Metourni/push-notifications-service-worker#readme"
+}
